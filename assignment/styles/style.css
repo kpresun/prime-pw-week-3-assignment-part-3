@@ -1,1 +1,16 @@
 /* give your assignment a fun background color */
+body {
+  background-color: #FF7147;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+ol {
+  color: white;
+}
